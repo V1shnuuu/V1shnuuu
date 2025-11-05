@@ -1,40 +1,9 @@
-## Hi there 👋
+<h1 align="center">⚡ Dev Overclock Protocol</h1>
 
-```bash
-#!/bin/bash
-# === Dev Overclock Protocol v2.0 ===
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=%3E%3E+Initializing+Cognitive+Core...;%3E%3E+Mounting+%2Fopt%2Foverclock%2Fmodule...;%3E%3E+[OK]+Module+online.;%3E%3E+Running+neural+calibration+sequence...;%3E%3E+Progress:+[██████████░░░░░░░░░░]+42%%;%3E%3E+Progress:+[███████████████████]+100%%;%3E%3E+⚡+Overclocking+neural+frequency...;%3E%3E+⚠+Thermal+instability+detected!;%3E%3E+ERROR:+[core+meltdown]+at+%2Ftmp%2Freality.dmp;%3E%3E+Dumping+consciousness...;%3E%3E+EOF+:(;%3E%3E+System+Failure:+Reality+Kernel+Panic+0x404" alt="Overclock Animation" />
+</p>
 
-echo ""
-echo ">> Initializing Cognitive Core..."
-sleep 0.4
-echo ">> Mounting /opt/overclock/module..."
-sleep 0.5
-echo ">> [OK] Module online."
-sleep 0.3
-
-echo ""
-echo ">> Running neural calibration sequence..."
-sleep 0.4
-echo -n ">> Progress: [▓▓▓░░░░░░░░░░░░░░░░] 17%"; sleep 0.4; echo -ne "\r"
-echo -n ">> Progress: [▓▓▓▓▓▓▓▓░░░░░░░░░░░] 42%"; sleep 0.4; echo -ne "\r"
-echo -n ">> Progress: [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░] 87%"; sleep 0.3; echo -ne "\r"
-echo    ">> Progress: [███████████████████] 100%"
-sleep 0.5
-
-echo ""
-echo ">> ⚡ Overclocking neural frequency..."
-sleep 0.3
-echo ">> ⚠ WARNING: thermal instability detected!"
-sleep 0.5
-echo ">> ERROR: [core meltdown] integrity breach in /tmp/reality.dmp"
-sleep 0.4
-echo ""
-echo ">> Dumping consciousness..."
-sleep 0.5
-echo ">> EOF :( "
-sleep 0.3
-echo ""
-echo "# ========= SYSTEM FAILURE ========="
-echo "# Reality kernel panic at 0x404"
-echo "# Reboot recommended..."
-echo ""
+<p align="center">
+  <img src="https://img.shields.io/badge/Status:-System_Failure_Imminent-red?style=flat-square" />
+</p>
