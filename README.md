@@ -4,7 +4,7 @@
 
 **AI + Web3 Builder · Competitive Programmer · Mime Director**
 
-500+ LeetCode Problems Solved | AI-Powered Adaptive Liquidity Protocol (BNB Chain) | Web3 Rental Platform + Aadhaar Integration | UI/UX Internship @ Revature
+500+ LeetCode Problems Solved | AI-Powered Adaptive Liquidity Protocol (BNB Chain) | Web3 Rental Platform | UI/UX Internship @ Revature
 
 </div>
 
@@ -12,13 +12,13 @@
 
 <!-- TOP BADGES — Purple dark theme -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=V1shnuuu&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS&labelColor=1f1233"/>
+<img src="https://komarev.com/ghpvc/?username=V1shnuuu&style=for-the-badge&color=c084fc&labelColor=1f1233"/>
   &nbsp;
   <img src="https://img.shields.io/badge/LeetCode-500%2B-c084fc?style=for-the-badge&labelColor=1f1233"/>
   &nbsp;
   <img src="https://img.shields.io/badge/CGPA-7.4-a78bfa?style=for-the-badge&labelColor=1f1233"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Year-2nd%20B.Tech-c084fc?style=for-the-badge&labelColor=1f1233"/>
+<img src="https://img.shields.io/badge/Year-3rd%20B.E-c084fc?style=for-the-badge&labelColor=1f1233"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Age-19-d8b4fe?style=for-the-badge&labelColor=1f1233"/>
 </div>
@@ -28,11 +28,11 @@
 <!-- SOCIALS — Purple dark theme buttons -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d1b4e)](https://linkedin.com/in/vishnu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d1b4e)](https://www.linkedin.com/in/thevishnupriyan/)
 [![GitHub](https://img.shields.io/badge/GitHub-c084fc?style=for-the-badge&logo=github&logoColor=white&labelColor=3d2463)](https://github.com/V1shnuuu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-a78bfa?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=2d1b4e)](https://leetcode.com)
-[![Twitter](https://img.shields.io/badge/Twitter-a78bfa?style=for-the-badge&logo=x&logoColor=white&labelColor=2d1b4e)](https://x.com)
-[![Gmail](https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3d2463)](mailto:your.email@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-a78bfa?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=2d1b4e)](https://leetcode.com/u/V1shnuuu/)
+[![Twitter](https://img.shields.io/badge/Twitter-a78bfa?style=for-the-badge&logo=x&logoColor=white&labelColor=2d1b4e)](https://x.com/Vishnu_gleam)
+[![Gmail](https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3d2463)](mailto:vishnupriyan.dev@gmail.com)
 
 </div>
 
@@ -54,7 +54,7 @@ struct Vishnu {
                    "Performance Arts · Mime Direction", "IPL · Cricket"],
     aesthetics:   "Old Money · Cinematic · 90s Vintage · Pinterest-Inspired",
     building:     ["EvoArena (BNB Chain · Adaptive Liquidity Protocol)",
-                   "LendLoop (Web3 Rental · Aadhaar Identity Verification)",
+                   "LendLoop (Web3 Rental)",
                    "National-Level Mime Script (20 minutes)"],
     competitive: {
         leetcode:  "250+ problems solved · CodeChef active",
